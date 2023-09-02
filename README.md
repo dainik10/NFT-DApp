@@ -1,4 +1,4 @@
-# NFT Marketplace
+# NFT Marketplace 
 
 ## Technology Stack & Tools
 
